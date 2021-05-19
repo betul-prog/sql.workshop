@@ -1,0 +1,10 @@
+i^
+INNER JOIN artists ar on 
+
+		al.ArtistId=ar.ArtistId
+
+		WHERE al.ArtistId=50))
+
+		
+
+GROUP BY BillingCounnt 
